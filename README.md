@@ -150,9 +150,9 @@ Buradaysan artık sen de bu üretme serüveninin bir parçasısın. Hoş geldinn
 
 ## Beni Takip Et ✨
 
-- YouTube: `(https://www.youtube.com/@Berfin4615)`
-- Instagram: `[INSTAGRAM_LINKINI_EKLE](https://www.instagram.com/berfin.4615/)`
-- TikTok: `[TIKTOK_LINKINI_EKLE](https://www.tiktok.com/@berfin46152?_r=1&_t=ZS-98QnzDiNdY7)`
+- YouTube: `[https://www.youtube.com/@Berfin4615]`
+- Instagram: `[https://www.instagram.com/berfin.4615/]`
+- TikTok: `[https://www.tiktok.com/@berfin46152?_r=1&_t=ZS-98QnzDiNdY7]`
 
 ---
 
