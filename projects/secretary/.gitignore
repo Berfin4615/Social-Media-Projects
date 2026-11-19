@@ -1,0 +1,26 @@
+# Kişisel yapılandırma ve Google erişim bilgileri
+ayarlar.py
+credentials.json
+token.json
+**/credentials.json
+**/token.json
+*.secret.json
+.env
+.env.*
+!.env.example
+
+# Çalışma sırasında oluşan dosyalar
+aranan_toplantilar.json
+aranan_toplantilar.tmp
+*.log
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# IDE ve sistem dosyaları
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

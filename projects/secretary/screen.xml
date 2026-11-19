@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Screen>
+  <IdleScreen>
+    <ShowStatusLine>false</ShowStatusLine>
+    <DisplayBitmap>
+      <Bitmap>Qk3eBQAAAAAAAD4AAAAoAAAAtAAAADwAAAABAAEAAAAAAKAFAADEDgAAxA4AAAIAAAACAAAAAAAAAP///wD///////4AAA//gAAPgHAef///////8AD/////wB4AAAf/gAAHgBAGAP//////8AD/////gAeAAA//AAAHgBgHAB//////8AD/////jwPgAA//AAAPgAgDB4f/////8AD/////n8H4AA//APgPgAgDAeH/////8AD/////3+DOAA//j/8PgAgDAPD/////8AD//////+DDgA//n/8/AAADAPj/////8AD//////8DAwA//n/8/AAACAHh/////8AD//////AGAMAf/H/5+AAAEAHh/////8AD/////4AGAEAf/P+T8AAAAAHj/////8AD/////gAMACAP+H+AAAAAAAHD/////8AD////+GAYACAD4D/AAAAAAAOH/////8AD////8MAQABAAAD4AAAH/wAcP/////8AD////8cAQAAAAABgAAA//8A4f/////8AD////8cAQAAAAAH///B///Bh//////8AD////8cAAAAAAB8D//z///iH//////8AD////8cAAAAAAP4B//n///wf//////8AD////+OAAAAAB8AD//v///w///////8AD/////HAAAeAHgef/8P///5///////8AD/////jgAD/wOH////P//+Z///////8AD/////xwAH/8Af////v///Z///////8AD/////4cAf/+B/////P//+Z///////8AD/////+GAcAeB/////n//8T///////8AD//////hg4ZvB/////z//4w///////8AD//////4wwAnAAf//+h//hgP//////8AD//////8ZhmDADwAf/Of/mDD//////8AD//////+BwAnAPAPD//D/4Bx//////8AD//////+A4ZPAeAH5//4AAA4//////8AD//////8A8AeA8AH8//8A8A4f/////8AD//////8A/n+AgAP+/+AH8Acf/////8AD//////4Afn8AAAH+f8Bx4Acf/////8AD//////5APn4GQAH+f4B84Acf/////8AD//////5AH/wBwwAA/4B+wAcf/////8AD//////5AB/ABn/5//4D+wAYf/////8AD//////5AAAAB/////+B+gAY//////8AD//////5gBgIA//////gAAAw//////8AD//////5gB+GAe/////8AIAh//////8AD//////4wA+DgDP/////8EAD//////8AD//////8wA+A8AH//7//+QAP//////8AD//////8YA+AHgA/v8//+AA///////8AD//////+MA/AA5gAP8f/8AB///////8AD///////OAfAAMR//+N/gAP///////8AD///////mAfgADI//+EMAA////////8AD///////jAPgAAsf/+DAADgH//////8AD///////xwHwAAGP/+D4AMAD//////8AD///////44H4AADH/+JwAwfx//////8AD///////8cD8AADH/+JABj/9//////8AD////////GB8AABj/8IADH/9//////8AD////////jg/AAAj/4YAEf////////8AD////////wwfgAAj/wQAI/////////8AD////////8cHwAAAbgwAx/////////8AD/////////HD8AAAQAABj/////////8AD/////////w4/AAAAAAHH/////////8AD/////////8EPwAAAAAOP/////////8AD//////////AD+AAAAB4f/////////8AD//////////8Af4AAAPx//////////8AD///////////4A//4f+D//////////8AD////////////4AIAAAP//////////8AD/////////////wAbgB///////////8AD/////////////////////////////8AA=</Bitmap>
+      <X>0</X>
+      <Y>0</Y>
+    </DisplayBitmap>
+  </IdleScreen>
+</Screen>
